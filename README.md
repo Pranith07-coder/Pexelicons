@@ -1,8 +1,6 @@
 # Pexelicons
 Pexelicons is an open-source collection of beautiful, customizable icons designed to make your project stand out. These icons are perfect for use in websites, applications, and user interfaces. Each icon is available in various formats (SVG, PNG) for easy integration into any tech stack.
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
-
-![Pexelicons Logo](assets/images/Websitescreenshot.png)
+# <a href="https://github.com/Pranith07-coder.io/Pexelicons" target="_blank">Pexelicons</a>
 
 Pexelicons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
@@ -25,7 +23,7 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 
 ### Download Icons
 
-Visit the [Pexelicons Website](https://vinodjangid07.github.io/Pexelicons) to download custom folder icons for your PC.
+Visit the [Pexelicons Website](https://github.com/Pranith07-coder/Pexelicons) to download custom folder icons for your PC.
 
 ### How to Use
 
